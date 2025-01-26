@@ -10,7 +10,6 @@ import { CarService } from 'src/app/services/car.service';
 import { CarImagesByIdService } from 'src/app/services/carImagesById.service';
 import { ColorService } from 'src/app/services/color.service';
 
-
 @Component({
   selector: 'app-car',
   templateUrl: './car.component.html',
